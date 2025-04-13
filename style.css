@@ -1,0 +1,45 @@
+body {
+  font-family: Constantia, serif;
+  background-color: #fff8f8;
+  color: #333333;
+}
+
+h2 {
+  color: #e97474  ;
+  margin-bottom: 20px;
+}
+
+img {
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+section {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #f1cfcf;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 22px;
+  color: #ffffff;
+}
+
+footer {
+  background-color: #e97474
+  ;
+  color: #ffffff;
+}
+
+.btn-outline-danger {
+  font-weight: 500;
+}
+
+.btn-outline-light {
+  margin-left: 5px;
+}
